@@ -3,7 +3,7 @@ body {
     background-color: rgb(255, 235, 205, 0.305);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
-    margin: 0px; /*selain luo automaattisesti pienen marginaalin*/
+    margin: 0; /*selain luo automaattisesti pienen marginaalin*/
 }
 
 header{
