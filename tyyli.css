@@ -306,7 +306,7 @@ footer{
 /*suuri näyttö*/
 @media screen and (min-width: 1200px) {
     #etusivu {
-        background-image: scr="kuvat/paakuva-kahvila.jpg" alt="ihmisiä kahvilassa työntekijöitä tiskin takana";
+        background-image: src="kuvat/paakuva-kahvila.jpg" alt="ihmisiä kahvilassa työntekijöitä tiskin takana";
         background-size: cover;
         height: 950px;
     }
