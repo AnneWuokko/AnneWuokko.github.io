@@ -129,7 +129,7 @@ th{
 
 /*alatunniste, joka sivulla sama*/
 footer{
-    font-family: otsikko, sans serif;
+    font-family: otsikko, "sans serif";
     font-size: 18px;
     color: rgba(87, 54, 4);
     background-color: white;
