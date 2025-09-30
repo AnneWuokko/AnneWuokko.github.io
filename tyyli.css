@@ -375,12 +375,11 @@ footer{
         grid-template-areas:
             'g1-h1 g1-h1 g2-hk1'
             'g4-hk2 g3-h2 g3-h2';
-        margin-bottom: 50px;
+        margin-bottom: 100px;
     }
     footer{
         flex-direction: row;
         text-align: left;
-        /*position: fixed;*/
         bottom: 0;
         width: 100%;
         /*max-height: 15%;*/
