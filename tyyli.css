@@ -340,7 +340,7 @@ footer{
         flex-direction: row;
     }
     h1 {
-        padding-top: 50px;
+        margin-top: 50px;
         font-size: 35px;
     }
     h2{
