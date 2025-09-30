@@ -137,6 +137,7 @@ footer{
     justify-content: space-around;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin-top: auto;
 }
 
 /*some ikonit*/
@@ -377,7 +378,7 @@ footer{
     footer{
         flex-direction: row;
         text-align: left;
-        position: fixed;
+        /*position: fixed;*/
         bottom: 0;
         width: 100%;
         max-height: 15%;
