@@ -376,6 +376,7 @@ footer{
         grid-template-areas:
             'g1-h1 g1-h1 g2-hk1'
             'g4-hk2 g3-h2 g3-h2';
+        margin-top: 3%;
     }
     footer{
         flex-direction: row;
