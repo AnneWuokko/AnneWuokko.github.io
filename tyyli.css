@@ -378,6 +378,11 @@ footer{
             'g4-hk2 g3-h2 g3-h2';
         margin-top: 3%;
     }
+
+    table {
+        margin-top: 3%;
+    }
+    
     footer{
         flex-direction: row;
         text-align: left;
